@@ -1,2 +1,4 @@
 # RL
-Reinforcement Learning and some self made demos based on other tutorials.
+Currently learning in progress.
+
+Platform - [HuggingFace](https://huggingface.co/learn/deep-rl-course/en/unit0/introduction)
